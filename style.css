@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #099b83;
+}
+
+.fundo{
+    width: 660px;
+    margin: 0 auto;
+    background-color: #0cc7a8;
+}
+.flex{
+    display:flex
+}
+.ciano{
+    background-color: #0cbea1;
+    padding: 80px;
+    margin: 10px;
+}
+.alongar{
+    padding-right: 280px;
+}
