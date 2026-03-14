@@ -6,6 +6,7 @@
 
 body{
     background-color: #099b83;
+    margin: 0;
 }
 
 .fundo{
@@ -14,13 +15,32 @@ body{
     background-color: #0cc7a8;
 }
 .flex{
-    display:flex
+    display:flex;
 }
 .ciano{
     background-color: #0cbea1;
     padding: 80px;
     margin: 10px;
+    flex: 1;
 }
 .alongar{
+    padding-right: 200px;
+}
+.esticarMais{
     padding-right: 280px;
+}
+.esticar{
+    padding-right: 100px;
+}
+.bloco1{
+height:480px;
+}
+.bloco2{
+height:120px;
+}
+.bloco3{
+height:300px;
+}
+.bloco4{
+height:300px;
 }
