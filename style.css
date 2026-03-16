@@ -6,6 +6,7 @@
 
 body{
     background-color: #099b83;
+    margin: 0;
 }
 
 .fundo{
@@ -14,13 +15,29 @@ body{
     background-color: #0cc7a8;
 }
 .flex{
-    display:flex
+    display:flex;
 }
 .ciano{
     background-color: #0cbea1;
     padding: 80px;
     margin: 10px;
+    flex: 1;
+    display:inline-block;
+}
+p{
+  text-align:left;
+  margin-left:10px;
 }
 .alongar{
-    padding-right: 280px;
+    padding-right: 300px;
 }
+.alongarCurto{
+    padding-right: 150px;
+}
+.esticarMais{
+    padding-bottom: 406px;
+}
+.esticar{
+    padding-bottom:200px;
+}
+
