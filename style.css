@@ -34,10 +34,16 @@ p{
 .alongarCurto{
     padding-right: 150px;
 }
+.alongarMais{
+    padding-right: 506px;
+}
 .esticarMais{
     padding-bottom: 406px;
 }
 .esticar{
     padding-bottom:200px;
+}
+.esticarMenos{
+    padding-bottom: 300px;
 }
 
